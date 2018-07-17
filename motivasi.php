@@ -1,0 +1,27 @@
+<?php
+$text=array(
+"Naachooo :v",
+"Shake That Booty xD",
+"i hate you :( i love you :*",
+"tu hai k nahi :(",
+"Aj kal zamana Jali :/",
+"Awain Nakhre Na Kar Mere Nal Ni :(",
+"Kaan Boly Banere Te :(",
+"Ishq Da Soota :v",
+"Put Your Fucking hanDs up! :D",
+"Aj Phr Tum Pe Pyaar Aya Hai :v",
+"Kudi Tu Butter :*",
+"Paisa Nasha Pyaar  :D",
+"Mere Baare Kuriyaan Ton Pucho :)",
+"Blue Eyes :O",
+"Dance Basanti :v",
+"Jhoomon Deewana Ban K Tere Liye :(",
+"Tere Sang Yaara <3 Kush Rang Bhaara :*",
+"Am So Lonely Broken Angel :(",
+"Let ME LOve You <3",
+"Abhi TOu paRty Shuru Huwii haAi :D",
+"Sajna Aaaja veE :(",
+"Tu Judaa Ho :(",
+"Bichre Tou Jee nA Paaingy <3",
+);
+?>
